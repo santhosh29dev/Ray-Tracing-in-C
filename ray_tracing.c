@@ -17,6 +17,6 @@ int main(int argc, char* argv[]){
 
     SDL_Delay(5000);
 }
-=======
+
 }
 >>>>>>> 3e0930dff3904218524a76f3ee8060431c7d8104
